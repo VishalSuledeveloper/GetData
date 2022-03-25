@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://vishalsule.github.io/csb-2fhqzy/static/css/main.f29ae65a.chunk.css",
+    "main.js": "https://vishalsule.github.io/csb-2fhqzy/static/js/main.b497f45d.chunk.js",
+    "main.js.map": "https://vishalsule.github.io/csb-2fhqzy/static/js/main.b497f45d.chunk.js.map",
+    "runtime-main.js": "https://vishalsule.github.io/csb-2fhqzy/static/js/runtime-main.e893159e.js",
+    "runtime-main.js.map": "https://vishalsule.github.io/csb-2fhqzy/static/js/runtime-main.e893159e.js.map",
+    "static/js/2.a2bbc472.chunk.js": "https://vishalsule.github.io/csb-2fhqzy/static/js/2.a2bbc472.chunk.js",
+    "static/js/2.a2bbc472.chunk.js.map": "https://vishalsule.github.io/csb-2fhqzy/static/js/2.a2bbc472.chunk.js.map",
+    "index.html": "https://vishalsule.github.io/csb-2fhqzy/index.html",
+    "static/css/main.f29ae65a.chunk.css.map": "https://vishalsule.github.io/csb-2fhqzy/static/css/main.f29ae65a.chunk.css.map",
+    "static/js/2.a2bbc472.chunk.js.LICENSE.txt": "https://vishalsule.github.io/csb-2fhqzy/static/js/2.a2bbc472.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e893159e.js",
+    "static/js/2.a2bbc472.chunk.js",
+    "static/css/main.f29ae65a.chunk.css",
+    "static/js/main.b497f45d.chunk.js"
+  ]
+}
